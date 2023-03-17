@@ -4,7 +4,7 @@ namespace App\Controllers;
 class contactocontroller extends BaseController
 {
     Public function index(){
-        //eturn view('contacto/inicio'); 
+        //return view('contacto/inicio'); 
          $data=['titulo' => 'inicio'];
       $vista=view ('contacto/Header', $data).
              view ('contacto/Menu').
@@ -19,7 +19,7 @@ class contactocontroller extends BaseController
         $catalogo=['numero' => $numeroCatalogo];
         echo view ('contacto/Header', $data);
         echo view ('contacto/Menu');
-        echo view ('contacto/catalogo'), $catalogo;
+        echo view ('contacto/catalogo',$catalogo);
         echo view ('contacto/Footer');
     }
 
