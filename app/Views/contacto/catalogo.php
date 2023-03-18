@@ -1,6 +1,7 @@
 <div class="card" style="width: 18rem;">
 
 <?php
+$numero=1;
 if ($numero==0){
 ?>
   <img src="..." class="card-img-top" alt="...">
