@@ -1,0 +1,375 @@
+CRITICAL - 2023-03-23 20:10:37 --> Invalid file: "layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:12:18 --> Invalid file: "contacto/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto/layout.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto/layout', [], true)
+ 3 APPPATH\Controllers\ContactoController.php(48): view('contacto/layout')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\contactocontroller->layout()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactocontroller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:13:34 --> Invalid file: "contacto/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto/layout.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto/layout', [], true)
+ 3 APPPATH\Controllers\ContactoController.php(48): view('contacto/layout')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\contactocontroller->layout()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactocontroller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:13:55 --> Invalid file: "contacto/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto/layout.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto/layout', [], true)
+ 3 APPPATH\Controllers\ContactoController.php(48): view('contacto/layout')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\contactocontroller->layout()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactocontroller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:13:55 --> Invalid file: "contacto/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto/layout.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto/layout', [], true)
+ 3 APPPATH\Controllers\ContactoController.php(48): view('contacto/layout')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\contactocontroller->layout()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactocontroller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:13:55 --> Invalid file: "contacto/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contacto/layout.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contacto/layout', [], true)
+ 3 APPPATH\Controllers\ContactoController.php(48): view('contacto/layout')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\contactocontroller->layout()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\contactocontroller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:14:03 --> Invalid file: "Contacto/Layout/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Contacto/Layout/layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Contacto/Layout/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:14:06 --> Invalid file: "Contacto/Layout/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Contacto/Layout/layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Contacto/Layout/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:15:11 --> Invalid file: "Layout/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Layout\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Layout/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:15:12 --> Invalid file: "Layout/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Layout\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Layout/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:15:13 --> Invalid file: "Layout/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Layout\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Layout/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:15:13 --> Invalid file: "Layout/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Layout\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Layout/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:15:54 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:15:55 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:16:41 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:16:41 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:16:42 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:16:42 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:17:38 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:17:39 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:17:39 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:17:39 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:17:39 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:17:39 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:17:40 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:17:40 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:17:40 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:17:40 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:17:40 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:17:41 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:19:31 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:19:32 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:19:32 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:19:33 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:19:33 --> Invalid file: "Plantilla/layout.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('FCPATH\\Plantilla\\layout.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('Plantilla/layout', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('welcome_message', [], true)
+ 4 APPPATH\Controllers\Home.php(7): view('welcome_message')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:36:04 --> syntax error, unexpected single-quoted string "contacto", expecting identifier or variable or "{" or "$"
+in APPPATH\Config\Routes.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:36:05 --> syntax error, unexpected single-quoted string "contacto", expecting identifier or variable or "{" or "$"
+in APPPATH\Config\Routes.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:36:53 --> syntax error, unexpected single-quoted string "contacto", expecting identifier or variable or "{" or "$"
+in APPPATH\Config\Routes.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:36:54 --> syntax error, unexpected single-quoted string "contacto", expecting identifier or variable or "{" or "$"
+in APPPATH\Config\Routes.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-23 20:36:55 --> syntax error, unexpected single-quoted string "contacto", expecting identifier or variable or "{" or "$"
+in APPPATH\Config\Routes.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -21,6 +21,7 @@ class Home extends BaseController
         return view ('formulario');
     }
 
+
    
 
     public function enviarPost(){
@@ -29,5 +30,6 @@ class Home extends BaseController
 
         echo 'su nombre es: '. $nombre .' y su correo es: '. $correo;
     }
+    
 }
 

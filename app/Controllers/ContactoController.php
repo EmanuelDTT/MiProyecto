@@ -41,6 +41,26 @@ class contactocontroller extends BaseController
 
     }
 
+     public function layout(){
+        $data= ['titulo' => 'inicio'];
+        echo view ('contacto/layout', $data);
+        echo view ('contacto/Footer');
+        //echo view ('contacto/menu');
+        
+    }
+
+    public function contac(){
+         return 'Arde en tus ojos un misterio, virgen
+         esquiva y compañera.
+         No sé si es odio o es amor la lumbre
+         inagotable de tu aliaba negra.
+         
+         Conmigo irás mientras proyecte sombra
+         mi cuerpo y quede a mi sandalia arena.
+         -¿Eres la sed o el agua en mi camino?-
+         Dime, virgen esquiva y compañera.';
+    }
+
 
 }
 

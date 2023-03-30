@@ -33,9 +33,11 @@ $routes->get('/', 'Home::index');
 $routes->post ('/envioPost','Home::enviarPost');
 //$routes->add('/contacto','Home::contacto');
 $routes->add('/contacto','ContactoController::index');
-$routes->get('/catalogo','ContactoController::catalogo');   
+$routes->get('/catalogo','ContactoController::catalogo');       
 $routes->get('/formulario', 'ContactoController::formulario');
 $routes->get('/inicio','ContactoController::inicio');
+$routes->get('/layout','ContactoController::layout');
+$routes->get('/contactameporfavor','ContactoController::contac', ['as' => 'contac']);
 
 //$routes->get('/inicio','Home::inicio');
 
